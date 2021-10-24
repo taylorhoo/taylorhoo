@@ -1,16 +1,25 @@
-### Hi there 👋
+# Taylor
 
-<!--
-**taylorhoo/taylorhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grew up using Windows XP. Also likes finding rare glitches and bugs.
 
-Here are some ideas to get you started:
+> What a person can be, they must be.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- User eXperience
+- Web Development
+- Blockchain
+- Machine Learning
+
+
+## Status
+
+<a href="#stats" align="center">
+    <img align="center" alt="taylorhoo's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=taylorhoo&count_private=true&show_icons=true&include_all_commits=true&theme=kacho_ga" />
+</a>
+<br />
+
+<a href="#languages" align="center">
+    <img align="center" alt="taylorhoo's Top Language" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=taylorhoo&langs_count=10&layout=compact&theme=kacho_ga" />
+</a>
+<br />
